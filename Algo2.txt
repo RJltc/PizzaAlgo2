@@ -1,0 +1,6 @@
+Decide where to order pizza from
+Read menu
+Decide which pizza you want
+Order pizza
+Pay for pizza
+Wait for pizza
